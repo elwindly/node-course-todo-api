@@ -1,5 +1,5 @@
 var env = process.env.NODE_ENV || 'development';
-console.log('env**********: ',env);
+
 
 process.env.MONGODB_URI = 'mongodb://elwindly:7ImmuraN500@ds050539.mlab.com:50539/todo';
 
